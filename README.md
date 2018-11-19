@@ -9,7 +9,7 @@
 
 ## 此次用到的演算法：
 
-### SVM:
+### RandomForest
 - https://zh.wikipedia.org/wiki/%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97
 
 ## 個人檔案：
